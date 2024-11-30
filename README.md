@@ -13,7 +13,7 @@
 ### 准备工作
 1. 下载 [AnyGo](https://filecr.com/macos/anygo-itoolab/) 并安装
 2. 授权软件运行：在 Settings -> Privacy & Security 中允许 AnyGo 运行
-3. 打开 AnyGo 并连接手机，在手机上同意连接
+3. 打开 AnyGo 并透过数据线连接手机，在手机上输入密码同意连接
 
 ### AnyGo 使用方式
 1. 在右上角使用 Teleport Mode 先顺移到某个地方，在手机的 Map 功能上检查定位是否改变
