@@ -1,7 +1,7 @@
 ## No Run
 
 > [!IMPORTANT]
-> 本教程为 MacOS & iOS 教程
+> 本教程为 macOS & iOS 教程
 
 
 ### 原理
